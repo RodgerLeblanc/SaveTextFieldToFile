@@ -1,6 +1,6 @@
 SaveTextFieldToFile (beginner)
 --------------
-This sample app shows how to save custom text to a file from QML, with a little help from C++. Written for helping another dev.
+BB10 sample app shows how to save custom text to a file from QML, with a little help from C++. Written for helping another dev.
 
 
 LICENSE
